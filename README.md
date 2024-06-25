@@ -1,6 +1,6 @@
 # updated_homework
 
-A new Flutter project.
+A Simple-App Flutter project.
 
 ## Getting Started
 
